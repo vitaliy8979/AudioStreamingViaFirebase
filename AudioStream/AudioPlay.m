@@ -29,6 +29,9 @@ static OSStatus initCallback(void *inRefCon,
     // a variable where we check the status
     OSStatus status;
     
+    
+    
+    
     /**
      This is the reference to the object who owns the callback.
      */
