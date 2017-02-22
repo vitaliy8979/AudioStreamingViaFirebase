@@ -2,7 +2,7 @@
 //  AudioPlay.h
 //  AudioStreamingOpus
 //
-//  Created by Roman on 11/5/16.
+//  Created by Vitaliy on 11/5/16.
 //  Copyright © 2016 Crane. All rights reserved.
 //
 

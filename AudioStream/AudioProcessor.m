@@ -2,8 +2,8 @@
 //  AudioProcessor.m
 //  MicInput
 //
-//  Created by Stefan Popp on 21.09.11.
-//  Copyright 2011 http://www.stefanpopp.de/2011/capture-iphone-microphone/ . All rights reserved.
+//  Created by Vitaliy on 21.09.11.
+//  Copyright 2016 Crane . All rights reserved.
 //
 
 #import "AudioProcessor.h"

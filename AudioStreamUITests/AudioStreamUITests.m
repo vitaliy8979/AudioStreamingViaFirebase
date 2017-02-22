@@ -2,7 +2,7 @@
 //  AudioStreamUITests.m
 //  AudioStreamUITests
 //
-//  Created by Crane on 10/30/16.
+//  Created by Vitaliy on 10/30/16.
 //  Copyright © 2016 Crane. All rights reserved.
 //
 

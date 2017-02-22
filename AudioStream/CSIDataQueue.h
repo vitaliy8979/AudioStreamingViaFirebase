@@ -2,7 +2,7 @@
 //  CSIDataQueue.h
 //  AudioStreamingOpus
 //
-//  Created by Roman on 10/25/16.
+//  Created by Vitaliy on 10/25/16.
 //  Copyright © 2016 Crane. All rights reserved.
 //
 
